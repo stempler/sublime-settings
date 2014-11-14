@@ -90,7 +90,20 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#00B418</string>
+				<string>#67B879</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Documentation Block Comments</string>
+			<key>scope</key>
+			<string>comment.block.documentation</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#009F14</string>
 			</dict>
 		</dict>
 		<dict>
@@ -290,7 +303,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#3C4C72</string>
+				<string>#384A76</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +329,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#06960E</string>
+				<string>#282828</string>
 			</dict>
 		</dict>
 		<dict>
@@ -345,15 +358,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS: Type</string>
+			<string>JS: Type (also var)</string>
 			<key>scope</key>
-			<string>source.js storage.type.js</string>
+			<string>storage.type.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#0100B6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Entity Name in String</string>
+			<key>scope</key>
+			<string>string.quoted.single.js entity.name.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#D80800</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>storage.type.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic bold</string>
 			</dict>
 		</dict>
 		<dict>
