@@ -1,0 +1,18 @@
+# General
+*.cache
+
+# Dynamically created theme files
+*.tmTheme
+!Eiffel Extended.tmTheme
+
+# Local Git settings
+Git.sublime-settings
+GitGutter.sublime-settings
+
+# Package controll
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache
+Package Control.ca-certs

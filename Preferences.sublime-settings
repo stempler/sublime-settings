@@ -1,0 +1,18 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Eiffel Extended.tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "selection",
+	"fade_fold_buttons": false,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Dayle Rees Color Schemes"
+	],
+	"rulers":
+	[
+		80
+	],
+	"word_wrap": true
+}

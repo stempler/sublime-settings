@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"ColorSchemeEditor",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Goto Bootstrap",
+		"LESS",
+		"Play 2.0",
+		"ScopeHunter",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jshint"
+	]
+}
