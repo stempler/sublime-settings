@@ -230,8 +230,6 @@
 			<string>entity.name.function, keyword.other.name-of-parameter.objc</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#0000A2</string>
 			</dict>
@@ -391,6 +389,19 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>italic bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage modifiers (e.g. Scala override/implicit)</string>
+			<key>scope</key>
+			<string>storage.modifier</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#0100B6</string>
 			</dict>
 		</dict>
 		<dict>
