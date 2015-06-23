@@ -1,16 +1,22 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AngularJS",
 		"Bootstrap 3 Snippets",
 		"ColorPicker",
-		"ColorSchemeEditor",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"Git",
 		"Git Conflict Resolver",
 		"GitGutter",
 		"Goto Bootstrap",
+		"Gradle_Language",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
 		"JsFormat",
 		"LESS",
 		"Open URL",
