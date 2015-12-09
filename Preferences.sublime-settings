@@ -4,11 +4,16 @@
 	"detect_indentation": true,
 	"draw_white_space": "selection",
 	"fade_fold_buttons": false,
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"/home/simon/repos/website/.sass-cache*",
+		"*.log"
 	],
 	"rulers":
 	[
