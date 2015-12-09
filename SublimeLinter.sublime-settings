@@ -30,7 +30,9 @@
         "no_column_highlights_line": false,
         "passive_warnings": false,
         "paths": {
-            "linux": [],
+            "linux": [
+                "/home/simon/.nvm/versions/node/v0.12.4/bin"
+            ],
             "osx": [],
             "windows": []
         },
