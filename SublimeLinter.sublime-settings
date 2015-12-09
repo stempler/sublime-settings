@@ -8,7 +8,7 @@
         "lint_mode": "background",
         "linters": {
             "annotations": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "errors": [
                     "FIXME"
